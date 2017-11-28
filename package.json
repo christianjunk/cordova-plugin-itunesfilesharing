@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Cordova/PhoneGap plugin for enabling iTunes file sharing",
   "cordova": {
-    "id": "io.phasr.cordova.plugin.itunesfilesharing",
+    "id": "cordova-plugin-itunesfilesharing",
     "platforms": [
       "ios"
     ]
